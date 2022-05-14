@@ -1,5 +1,5 @@
 // This program tests the SavingsAccount class and allows the user to make changes to a fake savings account.
-// By Karen Pedri, CSC-162-IN1
+// By Karen Pedri
 import java.util.Scanner;
 
 public class SavingsAccountDriver {
